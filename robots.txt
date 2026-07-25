@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-fpfewm.salamcuanwin.sbs/sitemap.xml
